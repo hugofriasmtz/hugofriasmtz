@@ -92,7 +92,7 @@ Hello, I'm Hugo, a recent graduate from the Technological University of Tehuacá
 
 <h1 align="center">Technologies I’m Learning</h1>
 
----
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="Laravel logo" />
@@ -114,10 +114,8 @@ Hello, I'm Hugo, a recent graduate from the Technological University of Tehuacá
 
 <br>
 
-
 <h1 align="center">Technologies I Want to Learn</h1>
-
----
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" alt="Firebase logo" />
