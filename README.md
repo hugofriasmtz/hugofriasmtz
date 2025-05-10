@@ -19,7 +19,7 @@ Hello, I'm Hugo, a recent graduate from the Technological University of Tehuacá
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap logo" />
 </div>
 
----
+<br>
 
 ### Backend Technologies
 
@@ -35,8 +35,7 @@ Hello, I'm Hugo, a recent graduate from the Technological University of Tehuacá
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" height="40" alt="Composer logo" />
 </div>
 
-
----
+<br>
 
 ### Operating Systems
 
@@ -48,7 +47,7 @@ Hello, I'm Hugo, a recent graduate from the Technological University of Tehuacá
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height="40" />
 </div>
 
----
+<br>
 
 ### Development Tools
 
@@ -59,8 +58,8 @@ Hello, I'm Hugo, a recent graduate from the Technological University of Tehuacá
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40" alt="GitHub logo" />
 </div>
 
+<br>
 
----
 
 ### Design Tools
 
@@ -72,8 +71,8 @@ Hello, I'm Hugo, a recent graduate from the Technological University of Tehuacá
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma logo" />
 </div>
 
+<br>
 
----
 
 ### Terminal Tools
 
@@ -92,7 +91,8 @@ Hello, I'm Hugo, a recent graduate from the Technological University of Tehuacá
 
 
 <h1 align="center">Technologies I’m Learning</h1>
-<br>
+
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" alt="Laravel logo" />
@@ -114,8 +114,10 @@ Hello, I'm Hugo, a recent graduate from the Technological University of Tehuacá
 
 <br>
 
+
 <h1 align="center">Technologies I Want to Learn</h1>
-<br>
+
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="40" alt="Firebase logo" />
