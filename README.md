@@ -64,6 +64,12 @@ Outside of code, you can find me playing football ⚽, hanging out with friends,
 
 ---
 
+## ✍🏽 Tecnolgias que estoy aprendiendo
+
+<img src="https://skillicons.dev/icons?i=flask,django,docker,go" />
+
+---
+
 ## 📬 Contact Channels
 
 | Platform | Direct Link |
