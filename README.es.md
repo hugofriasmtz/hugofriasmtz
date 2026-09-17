@@ -62,11 +62,12 @@ Fuera del código, me encuentras jugando fútbol ⚽, salir con amigos o escucha
 | 🐍 **Python intermedio** | Guia para empezar con las librerias mas demandadas en el lenguaje | [Leer Guía →](https://github.com/hugofriasmtz/python-intermedial) |
 | 🌐 **HTML desde Cero** | Guia para iniciar los primeros pasos en el desarrollo web | [Leer Guía →](https://github.com/hugofriasmtz/guia-html) |
 
+
 ---
 
 ## ✍🏽 Technologies I'm Learning
 
-<img src="https://skillicons.dev/icons?i=flask,django,docker,go,arch,neovim" />
+<img src="https://skillicons.dev/icons?i=flask,django,docker,go,arch,neovim,bash" />
 
 ---
 
