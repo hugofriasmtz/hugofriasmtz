@@ -42,7 +42,7 @@ Outside of code, you can find me playing football ⚽, hanging out with friends,
 
 ### 🛠️ Tools and Environment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,md,notion" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,md,notion,obsidian" />
 
 ---
 
