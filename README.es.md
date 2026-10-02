@@ -78,7 +78,3 @@ Fuera del código, me encuentras jugando fútbol ⚽, salir con amigos o escucha
 | <img src="https://skillicons.dev/icons?i=linkedin" width="28" /> | [**LinkedIn:   Hugo Frías**](https://linkedin.com/in/hugofriasmtz) |
 | <img src="https://skillicons.dev/icons?i=gmail" width="28" /> | [**Correo: hugofriasmtz@hotmail.com**](mailto:hugofriasmtz@hotmail.com) |
 | <img src="https://skillicons.dev/icons?i=github" width="28" /> | [**GitHub: @hugofriasmtz**](https://github.com/hugofriasmtz) |
-
-## demo
-
-hola esto es un recordatorio
