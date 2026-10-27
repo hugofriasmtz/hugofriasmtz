@@ -66,7 +66,7 @@ Outside of code, you can find me playing football ⚽, hanging out with friends,
 
 ## ✍🏽 Technologies I'm Learning
 
-<img src="https://skillicons.dev/icons?i=flask,django,docker,go,arch,neovim,bash" />
+<img src="https://skillicons.dev/icons?i=flask,django,docker,go,arch,neovim,bash,ts" />
 
 ---
 
