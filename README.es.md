@@ -65,9 +65,9 @@ Fuera del código, me encuentras jugando fútbol ⚽, salir con amigos o escucha
 
 ---
 
-## ✍🏽 Technologies I'm Learning
+## ✍🏽 Tecnologías que estoy aprendiendo
 
-<img src="https://skillicons.dev/icons?i=flask,django,docker,go,arch,neovim,bash" />
+<img src="https://skillicons.dev/icons?i=flask,django,docker,go,arch,neovim,bash,ts" />
 
 ---
 
